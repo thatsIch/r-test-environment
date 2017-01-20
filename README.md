@@ -2,6 +2,7 @@
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/thatsIch/r-test-environment?branch=master&svg=true)](https://ci.appveyor.com/project/thatsIch/r-test-environment)
 
 [![Coverage Status](https://img.shields.io/codecov/c/github/thatsIch/r-test-environment/master.svg)](https://codecov.io/github/thatsIch/r-test-environment?branch=master)
+[![Coverage Status](https://img.shields.io/coveralls/thatsIch/r-test-environment.svg)](https://coveralls.io/r/thatsIch/r-test-environment?branch=master)
 
 # RTestEnvironment
 

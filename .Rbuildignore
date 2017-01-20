@@ -4,3 +4,4 @@
 ^CONDUCT\.md$
 ^\.travis\.yml$
 ^revdep$
+^codecov\.yml$

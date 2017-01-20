@@ -1,3 +1,5 @@
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/thatsIch/r-test-environment?branch=master&svg=true)](https://ci.appveyor.com/project/thatsIch/r-test-environment)
+
 # RTestEnvironment
 
 The goal of RTestEnvironment is to ...

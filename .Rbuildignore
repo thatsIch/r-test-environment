@@ -3,3 +3,4 @@
 ^appveyor\.yml$
 ^CONDUCT\.md$
 ^\.travis\.yml$
+^revdep$

@@ -1,3 +1,4 @@
+[![Travis-CI Build Status](https://travis-ci.org/thatsIch/r-test-environment.svg?branch=master)](https://travis-ci.org/thatsIch/r-test-environment)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/thatsIch/r-test-environment?branch=master&svg=true)](https://ci.appveyor.com/project/thatsIch/r-test-environment)
 
 # RTestEnvironment

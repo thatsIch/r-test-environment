@@ -2,7 +2,9 @@
 
 language: R
 sudo: false
-cache: packages
+cache:
+  packages
+  apt: true
 
 after_success:
   - Rscript -e 'covr::codecov()'
